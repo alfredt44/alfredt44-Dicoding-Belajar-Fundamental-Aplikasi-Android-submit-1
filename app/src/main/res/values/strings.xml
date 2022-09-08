@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Dicoding Submission BFAA 1</string>
+    <string name="username">Username: %s </string>
+    <string name="name">Name: %s </string>
+    <string name="location">Location: %s </string>
+    <string name="repository">repository: %s </string>
+    <string name="followers">Followers: %s </string>
+    <string name="following">Following: %s </string>
+    <string name="photo">Photo</string>
+    <string name="credit">Credit</string>
+    <string name="credit_content">thanks to github.com to provide the information :)</string>
+
+    <string-array name="username">
+        <item>fabpot</item>
+        <item>andrew</item>
+        <item>taylorotwell</item>
+        <item>egoist</item>
+        <item>hugogiraudel</item>
+        <item>ornicar</item>
+        <item>bebraw</item>
+        <item>nelsonic</item>
+        <item>alexcrichton</item>
+        <item>jonathanong</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Fabien Potencier</item>
+        <item>Andrew Nesbitt</item>
+        <item>Taylor Otwell</item>
+        <item>NONAME(egoist)</item>
+        <item>Hugo Giraudel</item>
+        <item>Thibault Duplessis</item>
+        <item>Juho Vepsäläinen</item>
+        <item>Nelson</item>
+        <item>Alex Crichton</item>
+        <item>jongleberry</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>San Francisco, USA</item>
+        <item>Somerset, UK</item>
+        <item>Little Rock, AR</item>
+        <item>Chengdu, China</item>
+        <item>Berlin, Germany</item>
+        <item>Paris, France</item>
+        <item>Vienna, Austria</item>
+        <item>London, UK</item>
+        <item>San Francisco, CA, USA</item>
+        <item>Los Angeles, CA, USA</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>55</item>
+        <item>298</item>
+        <item>20</item>
+        <item>733</item>
+        <item>0</item>
+        <item>386</item>
+        <item>186</item>
+        <item>300</item>
+        <item>411</item>
+        <item>59</item>
+    </string-array>
+
+
+    <string-array name="followers">
+        <item>11500</item>
+        <item>2700</item>
+        <item>22400</item>
+        <item>8600</item>
+        <item>5</item>
+        <item>3700</item>
+        <item>2000</item>
+        <item>3100</item>
+        <item>3500</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>0</item>
+        <item>3200</item>
+        <item>0</item>
+        <item>25</item>
+        <item>0</item>
+        <item>175</item>
+        <item>0</item>
+        <item>17800</item>
+        <item>0</item>
+        <item>145</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+</resources>
